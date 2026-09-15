@@ -9,8 +9,8 @@ const STEPS = [
   },
   {
     frame: "02",
-    title: "Fund it with SOL",
-    copy: "Buy SOL on an exchange and send it to your wallet to cover the swap.",
+    title: "Fund it with ETH on Robinhood",
+    copy: "Buy ETH on an exchange and send it to your wallet to cover the swap.",
   },
   {
     frame: "03",
@@ -20,7 +20,7 @@ const STEPS = [
   {
     frame: "04",
     title: "Swap and hold",
-    copy: "Trade SOL for $AMC, stash it in your wallet, and enjoy the show.",
+    copy: "Trade ETH for $AMC, stash it in your wallet, and enjoy the show.",
   },
 ];
 
