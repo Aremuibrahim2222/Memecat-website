@@ -17,7 +17,7 @@ const CHANNELS = [
     name: "Dexscreener",
     copy: "Live chart, live price, no popcorn required.",
     href: LINKS.dexscreener,
-    handle: "AMC / SOL pair",
+    handle: "AMC / AMC pair",
   },
 ];
 
